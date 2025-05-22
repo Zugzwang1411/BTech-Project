@@ -2,7 +2,7 @@
 
 ### Final Year BTech Project  
 **By:** Sannidhy Prabhakar, Sarish Vikrant Nilakhe, Navin Kumar  
-**Institution:** [Your University Name Here]
+**Institution:** Indian Institute Of Technology Roorkee
 
 ---
 
